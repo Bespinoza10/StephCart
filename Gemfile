@@ -32,6 +32,9 @@ gem 'activeadmin', github: 'gregbell/active_admin'
 # Add devise to support login for activeAdmin
 gem 'devise'
 
+# Homepage Design
+gem 'masonry-rails'
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
